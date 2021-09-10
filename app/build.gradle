@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.picture_sharing_application"
+        applicationId "com.example.zk_code07"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
